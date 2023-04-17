@@ -5,7 +5,6 @@
  *
  * Return: The length of the string.
  */
-
 int _strlen_recursion(char *s){
 
     int count = 0;
