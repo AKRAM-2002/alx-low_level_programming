@@ -75,19 +75,19 @@ typedef struct hash_table_s
 ### Project Tasks
 The project consists of the following tasks:
 
--0x1A. C - Hash tables
+1. 0x1A. C - Hash tables
 Create a function that creates a hash table.
--djb2
+2. djb2
 Implement a hash function using the djb2 algorithm.
--key -> index
+3. key -> index
 Create a function that gives you the index of a key in the hash table.
-->>> ht['betty'] = 'cool'
+4. >>> ht['betty'] = 'cool'
 Write a function that adds an element to the hash table.
-->>> ht['betty']
+5. >>> ht['betty']
 Implement a function that retrieves a value associated with a key.
-->>> print(ht)
+6. >>> print(ht)
 Write a function that prints the hash table.
--$ht['Betty'] = 'Cool'
+7. $ht['Betty'] = 'Cool'
 Implement a sorted hash table with the ability to print and manipulate sorted key-value pairs.
 
 For details on how to implement each task, please refer to the respective source code files provided in the GitHub repositor
